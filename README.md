@@ -1,5 +1,5 @@
 <p>
-<img src="https://img.shields.io/badge/plateform-Linux%20%7C%20Mac%20%7C%20Windows%20(soon)-929292">
+<img src="https://img.shields.io/badge/platform-Linux%20%7C%20Mac%20%7C%20Windows%20(soon)-929292">
 <img src="https://img.shields.io/badge/python-%3E%3D%203.6-306998">
 <img src="https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen">
 <a href="https://github.com/psf/black"><img src="https://img.shields.io/badge/code%20style-black-000000.svg"></a>
